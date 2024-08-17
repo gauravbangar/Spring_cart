@@ -21,6 +21,9 @@ A modern e-commerce web app built with Java, Spring Boot, React, JPA, and Hibern
 🎥 Demo Video
 Check out the demo video of the application to see it in action:https://drive.google.com/file/d/1IVqQ2ktWJdhAVi7UsYNlhig0nJxP2w8L/view?usp=drivesdk
 
+🌐 Live Application
+Explore the live version of the application here: https://vercel.com/gauravs-projects-288f1bd2/spring-cart/DXxzqYfzDaXheYPRZotfKbNzPQPk
+
 🛠️ Technologies Used
 Frontend: React
 Backend: Java, Spring Boot, JPA, Hibernate (ORM)
