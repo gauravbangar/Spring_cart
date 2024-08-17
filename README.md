@@ -1,4 +1,4 @@
-🛒 Spring Cart Application - Frontend
+🛒 Spring Cart Application - 
 A modern e-commerce web app built with Java, Spring Boot, React, JPA, and Hibernate. This project showcases a full-stack shopping cart system with a sleek interface and essential features.
 
 🌟 Features
